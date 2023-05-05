@@ -1,11 +1,1 @@
-Setup
-
-Follow these steps to setup your environment:
-
-1. Open a command prompt or terminal window.
-2. Ensure that you have Python installed on your system. You can check this by running the command python --version. If Python is not installed, you can download and install it from the official website: https://www.python.org/downloads/
-3. Install pytest by running the command pip install pytest. This will download and install the pytest package and its dependencies.
-
-Execution
-
-To run the test files, open a command prompt or terminal and navigate to the directory where the test files are located. Run the command 'pytest'. This will discover and run all the test functions in any Python files in the current directory (or its subdirectories) that start with the prefix test_.
+<h1>Shopping Cart E2E Testing</h1><p>This is a sample project for performing end-to-end (E2E) testing on an online shopping cart. The tests are written in Python and use the pytest framework.</p><h2>Setup</h2><p>Follow these steps to set up your environment:</p><ol><li>Open a command prompt or terminal window.</li><li>Ensure that you have Python installed on your system. You can check this by running the command <code>python --version</code>. If Python is not installed, you can download and install it from the <a href="https://www.python.org/downloads/" target="_new">official website</a>.</li><li>Install pytest by running the command <code>pip install pytest</code>. This will download and install the pytest package and its dependencies.</li></ol><h2>Execution</h2><p>To run the test files, open a command prompt or terminal and navigate to the directory where the test files are located. Run the command <code>pytest</code>. This will discover and run all the test functions in any Python files in the current directory (or its subdirectories) that start with the prefix <code>test_</code>.</p>
