@@ -1,0 +1,9 @@
+Search for a product that doesn't exists on the shopping and validate if the list returns similar items.
+Add multiple items to the cart and validate that all items are displayed correctly with the correct quantities.
+Add an item to the cart and then remove it, ensuring that the cart is updated correctly.
+Increase the quantity of an item already in the cart and validate that the updated quantity is displayed correctly.
+Add an item to the cart and then clear the cart, ensuring that the cart is empty and no items are displayed.
+Add an item to the cart and then navigate to the product page for that item, ensuring that the correct product page is displayed.
+Attempt to add an item to the cart with an invalid quantity (e.g. a negative quantity), and validate that an error message is displayed and the item is not added to the cart.
+Attempt to add an item to the cart with a quantity greater than the available stock, and validate that an error message is displayed and the item is not added to the cart.
+Add an item to the cart and then navigate to the checkout page, ensuring that the correct checkout page is displayed with the correct items and quantity.
